@@ -2,8 +2,9 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo. Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura, atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonada por tecnologia e tudo o que ela pode propor.
-Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento e propondo melhorias para o mundo do desenvolvimento!
+Me chamo Leonardo Cassemiro Ribeiro, sou de Caraguatatuba - São Paulo. Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento e propondo melhorias para o mundo do desenvolvimento!
+Possuo conclusão no curso Técnico no IFRS em Informática para Web, com formações em alguns sites como Alura, atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonada por tecnologia e tudo o que ela pode propor.
+
 
 <p align="left">
     <a href="https://github.com/LeooRibeiro?tab=repositories&sort=stargazers">
@@ -17,7 +18,21 @@ Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeooRIbeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeooRIbeiro?color=333333&labelColor=333333&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/leonardo-cassemiro-ribeiro-b2738722b/">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:leo.ribeirobosco@gmail.com">
+        <img 
+            alt="Seguidores" 
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
