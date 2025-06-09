@@ -100,7 +100,8 @@ Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    padding="20"
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LeooRibeiro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -108,7 +109,7 @@ Meu interesse atualmente é poder crescer na profissão, adquirindo conhecimento
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooRibeiro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
